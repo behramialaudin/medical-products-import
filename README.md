@@ -28,10 +28,6 @@ npm run start:dev
 
 The app runs on `http://localhost:3000` and performs daily product imports at midnight.
 
-## API Endpoints
-
-- `POST /products/import`: Import products
-
 ## Requirements
 
 - Node.js (v14+)
